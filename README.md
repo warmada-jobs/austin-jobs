@@ -1,12 +1,12 @@
 # Austin Jobs
 
-Open roles in Austin: 128 roles at 45 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=austin).** Last updated 2026-11-08.
+Open roles in Austin: 129 roles at 46 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=austin).** Last updated 2026-11-08.
 
-All 128 are listed below. Browse the newest on [warmada.com/jobs/austin](https://warmada.com/jobs/austin?utm_source=github&utm_medium=list&utm_campaign=austin).
+All 129 are listed below. Browse the newest on [warmada.com/jobs/austin](https://warmada.com/jobs/austin?utm_source=github&utm_medium=list&utm_campaign=austin).
 
-**By role:** Software Engineering (21) · Hardware Engineering (4) · Product Management (1) · Design (2) · Marketing (5) · Sales (30) · Customer Success (3) · Operations (13) · Finance (6) · HR & Recruiting (2) · Legal & Compliance (2) · Other (39)
+**By role:** Software Engineering (21) · Hardware Engineering (4) · Product Management (1) · Design (2) · Marketing (5) · Sales (31) · Customer Success (3) · Operations (13) · Finance (6) · HR & Recruiting (2) · Legal & Compliance (2) · Other (39)
 
-**How it is built.** Warmada reads the public job boards of companies on Greenhouse, Ashby and Lever every day and keeps the postings that name a US location. A role is on this list when its posting names Austin. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
+**How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Austin. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
@@ -68,10 +68,11 @@ A bad listing? Email hello@warmada.com with the link.
 | [serval.com](https://warmada.com/companies/serval-com?utm_source=github&utm_medium=list&utm_campaign=austin) | Senior Strategic Field Marketing Manager- Central | Austin | Oct 27 | [Apply](https://jobs.ashbyhq.com/Serval/7d43aa2a-6e96-4785-9a90-3a5710db0537) · [Find the hiring manager](https://warmada.com/job/serval-com-senior-strategic-field-marketing-manager-central-b2d39805-05a4-4f49-9c1a-828f8f702fbb?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | inKind | Director of Growth Marketing | Austin, in-person | Oct 27 | [Apply](https://job-boards.greenhouse.io/inkind/jobs/5464828008) · [Find the hiring manager](https://warmada.com/job/inkind-director-of-growth-marketing-337978c9-e282-43ea-902f-04ec0cb6061b?utm_source=github&utm_medium=list&utm_campaign=austin) |
 
-## Sales (30)
+## Sales (31)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| AWL | Insurance Sales Trainer | Austin, Texas | Nov 5 | [Apply](https://job-boards.greenhouse.io/allwebleads/jobs/8932712002) · [Find the hiring manager](https://warmada.com/job/awl-insurance-sales-trainer-09196b42-282f-481c-9129-5dede6120828?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Dialpad](https://warmada.com/companies/dialpad?utm_source=github&utm_medium=list&utm_campaign=austin) | Client Account Executive, T-Mobile | Austin, US | Nov 5 | [Apply](https://job-boards.greenhouse.io/dialpad/jobs/8931998002) · [Find the hiring manager](https://warmada.com/job/dialpad-client-account-executive-t-mobile-0b951c00-4763-4fec-bd0d-da3ec11549d1?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Dialpad](https://warmada.com/companies/dialpad?utm_source=github&utm_medium=list&utm_campaign=austin) | Client Account Executive, Commercial | Austin, US | Nov 5 | [Apply](https://job-boards.greenhouse.io/dialpad/jobs/8932000002) · [Find the hiring manager](https://warmada.com/job/dialpad-client-account-executive-commercial-3e4b98b6-74a9-402e-bd69-075006b0dd60?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=austin) | Seasonal Meta Floater Sales Specialist | Austin, TX | Nov 5 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Austin-TX/Seasonal-Meta-Floater-Sales-Specialist_REQ_116253) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-seasonal-meta-floater-sales-specialist-92e3d404-d6d0-4d06-ab5d-1ea253fcaace?utm_source=github&utm_medium=list&utm_campaign=austin) |
