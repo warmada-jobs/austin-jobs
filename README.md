@@ -1,10 +1,10 @@
 # Austin Jobs
 
-Open roles in Austin: 99 roles at 40 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=austin).** Last updated 2026-11-14.
+Open roles in Austin: 100 roles at 41 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=austin).** Last updated 2026-11-15.
 
-All 99 are listed below. Browse the newest on [warmada.com/jobs/austin](https://warmada.com/jobs/austin?utm_source=github&utm_medium=list&utm_campaign=austin).
+All 100 are listed below. Browse the newest on [warmada.com/jobs/austin](https://warmada.com/jobs/austin?utm_source=github&utm_medium=list&utm_campaign=austin).
 
-**By role:** Software Engineering (12) · Hardware Engineering (2) · Design (2) · Marketing (6) · Sales (21) · Customer Success (3) · Operations (7) · Finance (3) · HR & Recruiting (1) · Legal & Compliance (1) · Other (41)
+**By role:** Software Engineering (12) · Hardware Engineering (2) · Design (2) · Marketing (7) · Sales (21) · Customer Success (3) · Operations (7) · Finance (3) · HR & Recruiting (1) · Legal & Compliance (1) · Other (41)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Austin. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -41,10 +41,11 @@ A bad listing? Email hello@warmada.com with the link.
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | Motion Designer | Austin, TX | Nov 5 | [Apply](https://jobs.ashbyhq.com/saronic/118d9149-3329-40af-a273-30118b2abd37) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-motion-designer-ada2a302-ae3c-49e3-ac65-f6be0e008214?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | 3D Generalist / Visualization Designer | Austin, TX | Nov 5 | [Apply](https://jobs.ashbyhq.com/saronic/0783226b-e1bf-4723-a1e5-6d6317f65546) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-3d-generalist-visualization-designer-7ddb8fb7-8628-4afc-857c-e67aaa12c84a?utm_source=github&utm_medium=list&utm_campaign=austin) |
 
-## Marketing (6)
+## Marketing (7)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| Rev | Senior Manager, B2B Marketing | Austin, TX | Nov 14 | [Apply](https://jobs.ashbyhq.com/rev/71c65bff-dae0-4820-bd93-69b980493c83) · [Find the hiring manager](https://warmada.com/job/rev-senior-manager-b2b-marketing-3bfc69a7-bf91-4f84-ad25-3c228c597bb2?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Navan](https://warmada.com/companies/navan?utm_source=github&utm_medium=list&utm_campaign=austin) | Field Marketing Manager | Austin, TX | Nov 13 | [Apply](https://navan.com/careers/openings?gh_jid=8384754) · [Find the hiring manager](https://warmada.com/job/navan-field-marketing-manager-a149a184-5164-4fd0-8905-3a04cfa5dc4c?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=austin) | Startup Acquisition Marketing Lead | Austin; Boston; New York City; San Francisco | Nov 12 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8367100) · [Find the hiring manager](https://warmada.com/job/mongodb-startup-acquisition-marketing-lead-4b5b5d17-97e1-4389-8247-e50a8446e75d?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=austin) | Startup Lifecycle Marketing Lead | Austin; Boston; New York City; San Francisco | Nov 12 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8367103) · [Find the hiring manager](https://warmada.com/job/mongodb-startup-lifecycle-marketing-lead-2a91d3d7-390e-40a0-a930-430d362114f1?utm_source=github&utm_medium=list&utm_campaign=austin) |
