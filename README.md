@@ -1,16 +1,16 @@
 # Austin Jobs
 
-Open roles in Austin: 100 roles at 41 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=austin).** Last updated 2026-11-15.
+Open roles in Austin: 95 roles at 40 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=austin).** Last updated 2026-11-16.
 
-All 100 are listed below. Browse the newest on [warmada.com/jobs/austin](https://warmada.com/jobs/austin?utm_source=github&utm_medium=list&utm_campaign=austin).
+All 95 are listed below. Browse the newest on [warmada.com/jobs/austin](https://warmada.com/jobs/austin?utm_source=github&utm_medium=list&utm_campaign=austin).
 
-**By role:** Software Engineering (12) · Hardware Engineering (2) · Design (2) · Marketing (7) · Sales (21) · Customer Success (3) · Operations (7) · Finance (3) · HR & Recruiting (1) · Legal & Compliance (1) · Other (41)
+**By role:** Software Engineering (11) · Hardware Engineering (1) · Design (2) · Marketing (7) · Sales (21) · Customer Success (3) · Operations (7) · Finance (2) · HR & Recruiting (1) · Legal & Compliance (1) · Other (39)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Austin. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (12)
+## Software Engineering (11)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -25,14 +25,12 @@ A bad listing? Email hello@warmada.com with the link.
 | [SambaNova](https://warmada.com/companies/sambanova?utm_source=github&utm_medium=list&utm_campaign=austin) | Machine Learning Engineer - New Grad | Austin, Texas, United States; San Jose, California, United States | Nov 3 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) · [Find the hiring manager](https://warmada.com/job/sambanova-machine-learning-engineer-new-grad-10f75eb5-f25e-4ffe-afcf-e827569c1943?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | IT Engineer | Austin, TX | Nov 2 | [Apply](https://jobs.ashbyhq.com/saronic/b458ec5f-4fbd-4454-8fd3-0003ed87a913) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-it-engineer-75e84b1b-2eb6-4499-9154-11852b995cbd?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [BusPatrol](https://warmada.com/companies/buspatrol?utm_source=github&utm_medium=list&utm_campaign=austin) | Sr. DevOps Engineer | TX - Austin | Nov 2 | [Apply](https://jobs.ashbyhq.com/buspatrol/cefe7843-4d5a-4332-91ec-d2c30978e2f1) · [Find the hiring manager](https://warmada.com/job/buspatrol-sr-devops-engineer-ad4b01a9-9847-48c4-a748-e916f679e412?utm_source=github&utm_medium=list&utm_campaign=austin) |
-| [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | Loads &amp; Dynamics Engineer | Austin, TX | Nov 2 | [Apply](https://jobs.ashbyhq.com/saronic/b69d8f1c-b77e-4ce6-8eb7-d7e743242bb9) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-loads-and-dynamics-engineer-a2f1af86-99fc-4f5a-ad24-024db1056045?utm_source=github&utm_medium=list&utm_campaign=austin) |
 
-## Hardware Engineering (2)
+## Hardware Engineering (1)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | Quality Engineer – Continuous Improvement &amp; Operational Risk | Austin, TX | Nov 11 | [Apply](https://jobs.ashbyhq.com/saronic/be1c4c0c-15fd-4a9a-914d-8150e9bc0514) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-quality-engineer-continuous-improvement-and-operational-ris-1d289706-4954-45a4-b7ef-33d3520833f9?utm_source=github&utm_medium=list&utm_campaign=austin) |
-| [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | NPI Quality Engineer - Naval | Austin, TX | Nov 2 | [Apply](https://jobs.ashbyhq.com/saronic/a424fdc6-83b5-4176-9172-7bf951e7b97d) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-npi-quality-engineer-naval-ddf13d7a-cdac-42f4-9cc6-aea7078a6caf?utm_source=github&utm_medium=list&utm_campaign=austin) |
 
 ## Design (2)
 
@@ -99,13 +97,12 @@ A bad listing? Email hello@warmada.com with the link.
 | ePayPolicy | Head of Revenue Operations | Austin, TX | Nov 3 | [Apply](https://jobs.ashbyhq.com/epay-policy/6a189dc1-446a-474e-ad2b-4568d4e92b45) · [Find the hiring manager](https://warmada.com/job/epaypolicy-head-of-revenue-operations-b2071562-f87b-4841-978a-94e95a28e69b?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | Optiver | Supply Chain Specialist | Austin, Texas, United States | Nov 2 | [Apply](https://www.optiver.com/join-us/jobs/8911705002/?gh_jid=8911705002) · [Find the hiring manager](https://warmada.com/job/optiver-supply-chain-specialist-420d16de-5044-4936-bdb5-7ef67a8e3b62?utm_source=github&utm_medium=list&utm_campaign=austin) |
 
-## Finance (3)
+## Finance (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Tenstorrent](https://warmada.com/companies/tenstorrent?utm_source=github&utm_medium=list&utm_campaign=austin) | Accounting Manager | Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States | Nov 12 | [Apply](https://job-boards.greenhouse.io/tenstorrent/jobs/5233854007) · [Find the hiring manager](https://warmada.com/job/tenstorrent-accounting-manager-09b7bfa9-2cd6-4ea6-84e2-29a728b00e2a?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | Senior Financial Analyst - Manufacturing Finance | Austin, TX | Nov 2 | [Apply](https://jobs.ashbyhq.com/saronic/b532ce62-f574-48fa-9993-2822b8a23c39) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-senior-financial-analyst-manufacturing-finance-65c05691-7059-4540-a01e-66d162fe5d22?utm_source=github&utm_medium=list&utm_campaign=austin) |
-| [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | Senior Financial Analyst - FinOps | Austin, TX | Nov 2 | [Apply](https://jobs.ashbyhq.com/saronic/67560109-fe19-4cb4-a84d-3f6e2a123078) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-senior-financial-analyst-finops-e3d40043-c49c-44a2-a11f-b3e61df9b8b5?utm_source=github&utm_medium=list&utm_campaign=austin) |
 
 ## HR & Recruiting (1)
 
@@ -119,7 +116,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | Senior Corporate Counsel | Austin, TX | Nov 2 | [Apply](https://jobs.ashbyhq.com/saronic/5e4bd0fe-95f8-4bac-a378-d0b812cba9e8) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-senior-corporate-counsel-bae51dad-faa9-4f09-88d2-8cfb28490b56?utm_source=github&utm_medium=list&utm_campaign=austin) |
 
-## Other (41)
+## Other (39)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -140,7 +137,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | Manager, IT Systems Engineering | Austin, TX | Nov 10 | [Apply](https://jobs.ashbyhq.com/saronic/d9873313-fd76-403e-b284-d13b091c5182) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-manager-it-systems-engineering-4396939e-e932-4e2f-91f9-7f594e6e3dc6?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | Lead IT Technician | Austin, TX | Nov 10 | [Apply](https://jobs.ashbyhq.com/saronic/5a0a0fe8-f3c2-4a01-8234-bb7b86f79ca9) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-lead-it-technician-503a5f9d-ba12-40e8-b4c2-c66d55137444?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Natera](https://warmada.com/companies/natera?utm_source=github&utm_medium=list&utm_campaign=austin) | Clinical Data Operator - Austin, TX | Austin, TX | Nov 10 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6252623004) · [Find the hiring manager](https://warmada.com/job/natera-clinical-data-operator-austin-tx-51664b85-27db-45d0-8485-49f3823a36e5?utm_source=github&utm_medium=list&utm_campaign=austin) |
-| 9 Mothers | Electronics Technician - Cable &amp; Harness Fabrication | Austin | Nov 10 | [Apply](https://jobs.ashbyhq.com/9-mothers/1696c09f-b9ad-4d65-aaf9-fbbff7f2c2b4) · [Find the hiring manager](https://warmada.com/job/9-mothers-electronics-technician-cable-and-harness-fabrication-64f01a17-546d-4863-a0c5-1f33e002c3a7?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Natera](https://warmada.com/companies/natera?utm_source=github&utm_medium=list&utm_campaign=austin) | Research Associate 1 | Austin, TX | Nov 10 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6241707004) · [Find the hiring manager](https://warmada.com/job/natera-research-associate-1-960f7309-36a3-4285-a5b0-3684af8d22fa?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Cursor](https://warmada.com/companies/cursor?utm_source=github&utm_medium=list&utm_campaign=austin) | Regional Director, Geo Enterprise | Austin, TX | Nov 9 | [Apply](https://jobs.ashbyhq.com/cursor/29c33f1b-d597-48a9-b8ad-77659c19bb3c) · [Find the hiring manager](https://warmada.com/job/cursor-regional-director-geo-enterprise-10af9daf-87ff-475d-8452-ffd8ed27c577?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | IT Technician (Austin) | Austin, TX | Nov 9 | [Apply](https://jobs.ashbyhq.com/saronic/62636523-c7da-4076-aee4-bc7c0d8685d0) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-it-technician-austin-6cbbade2-abb0-4057-a2c1-6937e8c4a88a?utm_source=github&utm_medium=list&utm_campaign=austin) |
@@ -163,4 +159,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Natera](https://warmada.com/companies/natera?utm_source=github&utm_medium=list&utm_campaign=austin) | Supervisor, Clinical Laboratory | Austin, TX | Nov 3 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6239041004) · [Find the hiring manager](https://warmada.com/job/natera-supervisor-clinical-laboratory-293cfe30-0b98-4875-805d-f7c64575d860?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | Fab2 | Production Supervisor | Austin | Nov 3 | [Apply](https://jobs.ashbyhq.com/Fab2/88b7f2ca-6200-43a9-8f38-a5faad204076) · [Find the hiring manager](https://warmada.com/job/fab2-production-supervisor-8094bfb4-19ca-49ba-b791-7e1a7157ad34?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Navan](https://warmada.com/companies/navan?utm_source=github&utm_medium=list&utm_campaign=austin) | ERP Integrations Architect | Austin, TX | Nov 3 | [Apply](https://navan.com/careers/openings?gh_jid=8349515) · [Find the hiring manager](https://warmada.com/job/navan-erp-integrations-architect-63177e9c-20b3-43a2-9598-8f12d26b09d2?utm_source=github&utm_medium=list&utm_campaign=austin) |
-| [Olympus Property](https://warmada.com/companies/olympus-property?utm_source=github&utm_medium=list&utm_campaign=austin) | Maintenance Technician - Riata | Austin, TX | Nov 2 | [Apply](https://job-boards.greenhouse.io/olympusproperty/jobs/8160017003) · [Find the hiring manager](https://warmada.com/job/olympus-property-maintenance-technician-riata-7a3f3dd9-cca4-463b-8513-0833c5776271?utm_source=github&utm_medium=list&utm_campaign=austin) |
