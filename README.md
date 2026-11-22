@@ -1,22 +1,23 @@
 # Austin Jobs
 
-Open roles in Austin: 107 roles at 42 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=austin).** Last updated 2026-11-21.
+Open roles in Austin: 107 roles at 43 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=austin).** Last updated 2026-11-22.
 
 All 107 are listed below. Browse the newest on [warmada.com/jobs/austin](https://warmada.com/jobs/austin?utm_source=github&utm_medium=list&utm_campaign=austin).
 
-**By role:** Software Engineering (9) · Hardware Engineering (6) · Data (3) · Marketing (5) · Sales (19) · Customer Success (3) · Operations (10) · Finance (3) · HR & Recruiting (1) · Legal & Compliance (1) · Other (47)
+**By role:** Software Engineering (10) · Hardware Engineering (6) · Data (3) · Marketing (5) · Sales (19) · Customer Success (3) · Operations (10) · Finance (3) · HR & Recruiting (1) · Legal & Compliance (1) · Other (46)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Austin. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (9)
+## Software Engineering (10)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [SambaNova](https://warmada.com/companies/sambanova?utm_source=github&utm_medium=list&utm_campaign=austin) | Principal DevOps Engineer | Austin, Texas, United States; San Jose, California, United States | Nov 20 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6268168004) · [Find the hiring manager](https://warmada.com/job/sambanova-principal-devops-engineer-3d79c146-2fce-4fc0-8365-040d756e0543?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Tenstorrent](https://warmada.com/companies/tenstorrent?utm_source=github&utm_medium=list&utm_campaign=austin) | Sr. Engineer, Memory Enablement | Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada | Nov 19 | [Apply](https://job-boards.greenhouse.io/tenstorrent/jobs/5298792007) · [Find the hiring manager](https://warmada.com/job/tenstorrent-sr-engineer-memory-enablement-d9148812-c630-4062-b240-695b8d139f56?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [DISCO](https://warmada.com/companies/disco?utm_source=github&utm_medium=list&utm_campaign=austin) | Staff Application Security Engineer | Austin, TX | Nov 19 | [Apply](https://www.csdisco.com/careers-listing?gh_jid=8950574002) · [Find the hiring manager](https://warmada.com/job/disco-staff-application-security-engineer-31766a9a-2892-4aac-b360-f91ddf15964d?utm_source=github&utm_medium=list&utm_campaign=austin) |
+| ePayPolicy | Staff Engineer | Austin, TX | Nov 19 | [Apply](https://jobs.ashbyhq.com/epay-policy/e1484079-87a3-4801-b136-5a549cbe4fbc) · [Find the hiring manager](https://warmada.com/job/epaypolicy-staff-engineer-e60e1b07-6c57-4eb8-aac3-e72414d4ba94?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | Full Stack Engineer | Austin, TX | Nov 18 | [Apply](https://jobs.ashbyhq.com/saronic/5c8201ff-6da7-47a1-a6d4-d698372ded00) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-full-stack-engineer-62781ae9-e634-4ece-87ad-dfebbe8eb5f0?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | Staff DevOps Engineer | Austin, TX | Nov 17 | [Apply](https://jobs.ashbyhq.com/saronic/fda07283-83b4-4af0-a218-96ffb283257d) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-staff-devops-engineer-2e9b057d-02d6-4015-9ecb-1dfc7ef46bbd?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | Mission Operation Engineer (Platform - Effectors) | Austin, TX | Nov 17 | [Apply](https://jobs.ashbyhq.com/saronic/1eb72659-5b57-4f31-97e2-82fa04b0bfdf) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-mission-operation-engineer-platform-effectors-7cfdc66a-e192-4b29-ae13-7f8bcbf617b3?utm_source=github&utm_medium=list&utm_campaign=austin) |
@@ -120,7 +121,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Jerry.ai](https://warmada.com/companies/jerry-ai?utm_source=github&utm_medium=list&utm_campaign=austin) | Insurance Compliance &amp; Automation Lead (Remote) | Austin, Texas | Nov 19 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/74f99fa4-9f19-417d-8fb0-923af3a95f33) · [Find the hiring manager](https://warmada.com/job/jerry-ai-insurance-compliance-and-automation-lead-remote-00618858-e513-402a-b583-816384ed1947?utm_source=github&utm_medium=list&utm_campaign=austin) |
 
-## Other (47)
+## Other (46)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -170,4 +171,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Natera](https://warmada.com/companies/natera?utm_source=github&utm_medium=list&utm_campaign=austin) | Clinical Data Operator - Austin, TX | Austin, TX | Nov 10 | [Apply](https://job-boards.greenhouse.io/natera/jobs/6252623004) · [Find the hiring manager](https://warmada.com/job/natera-clinical-data-operator-austin-tx-51664b85-27db-45d0-8485-49f3823a36e5?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Cursor](https://warmada.com/companies/cursor?utm_source=github&utm_medium=list&utm_campaign=austin) | Regional Director, Geo Enterprise | Austin, TX | Nov 9 | [Apply](https://jobs.ashbyhq.com/cursor/29c33f1b-d597-48a9-b8ad-77659c19bb3c) · [Find the hiring manager](https://warmada.com/job/cursor-regional-director-geo-enterprise-10af9daf-87ff-475d-8452-ffd8ed27c577?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | IT Technician (Austin) | Austin, TX | Nov 9 | [Apply](https://jobs.ashbyhq.com/saronic/62636523-c7da-4076-aee4-bc7c0d8685d0) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-it-technician-austin-6cbbade2-abb0-4057-a2c1-6937e8c4a88a?utm_source=github&utm_medium=list&utm_campaign=austin) |
-| [Tenstorrent](https://warmada.com/companies/tenstorrent?utm_source=github&utm_medium=list&utm_campaign=austin) | Engineer, CPU Performance Verification | Austin, Texas, United States; Santa Clara, California, United States | Nov 8 | [Apply](https://job-boards.greenhouse.io/tenstorrent/jobs/5284404007) · [Find the hiring manager](https://warmada.com/job/tenstorrent-engineer-cpu-performance-verification-e195566e-da71-438c-b609-952441b0fb20?utm_source=github&utm_medium=list&utm_campaign=austin) |
