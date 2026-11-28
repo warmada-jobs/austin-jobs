@@ -1,10 +1,10 @@
 # Austin Jobs
 
-Open roles in Austin: 121 roles at 40 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=austin).** Last updated 2026-11-27.
+Open roles in Austin: 119 roles at 39 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=austin).** Last updated 2026-11-28.
 
-All 121 are listed below. Browse the newest on [warmada.com/jobs/austin](https://warmada.com/jobs/austin?utm_source=github&utm_medium=list&utm_campaign=austin).
+All 119 are listed below. Browse the newest on [warmada.com/jobs/austin](https://warmada.com/jobs/austin?utm_source=github&utm_medium=list&utm_campaign=austin).
 
-**By role:** Software Engineering (22) · Hardware Engineering (10) · Data (3) · Product Management (1) · Marketing (5) · Sales (17) · Customer Success (5) · Operations (12) · Finance (2) · HR & Recruiting (2) · Legal & Compliance (2) · Other (40)
+**By role:** Software Engineering (22) · Hardware Engineering (10) · Data (3) · Product Management (1) · Marketing (4) · Sales (17) · Customer Success (4) · Operations (12) · Finance (2) · HR & Recruiting (2) · Legal & Compliance (2) · Other (40)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Austin. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -66,7 +66,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Fivetran](https://warmada.com/companies/fivetran?utm_source=github&utm_medium=list&utm_campaign=austin) | Senior Product Manager, Orchestration | Oakland, California, United States; Remote, Colorado, United States, AMER; USA - Austin (dbt); USA - New York; USA - Philadelphia (dbt) | Nov 23 | [Apply](https://www.fivetran.com/careers/job?gh_jid=7818210003) · [Find the hiring manager](https://warmada.com/job/fivetran-senior-product-manager-orchestration-e396d0de-8373-4e2a-a409-9ef5e1a0628d?utm_source=github&utm_medium=list&utm_campaign=austin) |
 
-## Marketing (5)
+## Marketing (4)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -74,7 +74,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Ownwell](https://warmada.com/companies/ownwell?utm_source=github&utm_medium=list&utm_campaign=austin) | Marketing Manager, Partnerships &amp; Brand Activation | Austin, TX | Nov 24 | [Apply](https://job-boards.greenhouse.io/ownwell/jobs/4731851006) · [Find the hiring manager](https://warmada.com/job/ownwell-marketing-manager-partnerships-and-brand-activation-4e4d06b0-d80e-4607-a1be-f032f114a024?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Orca Security](https://warmada.com/companies/orca-security?utm_source=github&utm_medium=list&utm_campaign=austin) | Senior Marketing Operations Manager | Austin, Texas, United States; Boston, Massachusetts, United States | Nov 18 | [Apply](https://orca.security/about/careers/6249880004?gh_jid=6249880004) · [Find the hiring manager](https://warmada.com/job/orca-security-senior-marketing-operations-manager-c0ad0a51-047b-4a73-8a71-53931c0178c7?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Orca Security](https://warmada.com/companies/orca-security?utm_source=github&utm_medium=list&utm_campaign=austin) | Marketing Campaigns Manager | Austin, Texas, United States; Boston, Massachusetts, United States | Nov 18 | [Apply](https://orca.security/about/careers/6262733004?gh_jid=6262733004) · [Find the hiring manager](https://warmada.com/job/orca-security-marketing-campaigns-manager-74c7a119-28b8-4b0f-a96f-46dc51aab585?utm_source=github&utm_medium=list&utm_campaign=austin) |
-| [Rev](https://warmada.com/companies/rev?utm_source=github&utm_medium=list&utm_campaign=austin) | Senior Manager, GTM (Marketing) | Austin, TX | Nov 14 | [Apply](https://jobs.ashbyhq.com/rev/71c65bff-dae0-4820-bd93-69b980493c83) · [Find the hiring manager](https://warmada.com/job/rev-senior-manager-gtm-marketing-3bfc69a7-bf91-4f84-ad25-3c228c597bb2?utm_source=github&utm_medium=list&utm_campaign=austin) |
 
 ## Sales (17)
 
@@ -98,15 +97,14 @@ A bad listing? Email hello@warmada.com with the link.
 | [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=austin) | Strategic Core Account Executive- Oil &amp; Gas | Austin, Texas; Dallas, Texas; Houston, Texas; United States | Nov 17 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8929384002) · [Find the hiring manager](https://warmada.com/job/databricks-strategic-core-account-executive-oil-and-gas-73fe24ef-8648-43b4-850b-8034f04fc8f1?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [DISCO](https://warmada.com/companies/disco?utm_source=github&utm_medium=list&utm_campaign=austin) | GTM Business Systems Director | Austin, TX | Nov 16 | [Apply](https://www.csdisco.com/careers-listing?gh_jid=8943495002) · [Find the hiring manager](https://warmada.com/job/disco-gtm-business-systems-director-3f25375f-8b02-4915-9124-1a8631c720be?utm_source=github&utm_medium=list&utm_campaign=austin) |
 
-## Customer Success (5)
+## Customer Success (4)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Rev](https://warmada.com/companies/rev?utm_source=github&utm_medium=list&utm_campaign=austin) | Customer Success Manager (CSM) | Austin, TX | Nov 24 | [Apply](https://jobs.ashbyhq.com/rev/3fe66c25-fcd8-4114-91eb-3f126ed4fe97) · [Find the hiring manager](https://warmada.com/job/rev-customer-success-manager-csm-b0d784c8-4daa-46be-952f-4e3547062a85?utm_source=github&utm_medium=list&utm_campaign=austin) |
-| [Envoy](https://warmada.com/companies/envoy?utm_source=github&utm_medium=list&utm_campaign=austin) | Scale Customer Success Manager | Austin, TX | Nov 18 | [Apply](https://jobs.ashbyhq.com/Envoy/55d31732-187d-484f-af7f-f6caae91a92f) · [Find the hiring manager](https://warmada.com/job/envoy-scale-customer-success-manager-d5b25132-b3e6-4439-a1fc-7eeca21a516c?utm_source=github&utm_medium=list&utm_campaign=austin) |
-| [Envoy](https://warmada.com/companies/envoy?utm_source=github&utm_medium=list&utm_campaign=austin) | Mid Market Customer Success Manager | Austin, TX | Nov 18 | [Apply](https://jobs.ashbyhq.com/Envoy/da709253-d2f0-400d-ae6c-0b92432e3cfc) · [Find the hiring manager](https://warmada.com/job/envoy-mid-market-customer-success-manager-19bef7ee-ea24-482b-96c4-1475dc7e81b4?utm_source=github&utm_medium=list&utm_campaign=austin) |
+| Envoy | Scale Customer Success Manager | Austin, TX | Nov 18 | [Apply](https://jobs.ashbyhq.com/Envoy/55d31732-187d-484f-af7f-f6caae91a92f) · [Find the hiring manager](https://warmada.com/job/envoy-scale-customer-success-manager-d5b25132-b3e6-4439-a1fc-7eeca21a516c?utm_source=github&utm_medium=list&utm_campaign=austin) |
+| Envoy | Mid Market Customer Success Manager | Austin, TX | Nov 18 | [Apply](https://jobs.ashbyhq.com/Envoy/da709253-d2f0-400d-ae6c-0b92432e3cfc) · [Find the hiring manager](https://warmada.com/job/envoy-mid-market-customer-success-manager-19bef7ee-ea24-482b-96c4-1475dc7e81b4?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [EOS](https://warmada.com/companies/eos?utm_source=github&utm_medium=list&utm_campaign=austin) | AV Event Support Specialist | Austin, Texas, United States | Nov 18 | [Apply](https://eosits.com/company/careers/?gh_jid=8949521002) · [Find the hiring manager](https://warmada.com/job/eos-av-event-support-specialist-c7037ad2-2f69-4d45-8482-c4f6f1c2c79d?utm_source=github&utm_medium=list&utm_campaign=austin) |
-| [Contentful](https://warmada.com/companies/contentful?utm_source=github&utm_medium=list&utm_campaign=austin) | Customer Success Manager | Austin, Texas, United States | Nov 13 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8386901) · [Find the hiring manager](https://warmada.com/job/contentful-customer-success-manager-aba7e52b-38bf-423e-aa83-f56333245578?utm_source=github&utm_medium=list&utm_campaign=austin) |
 
 ## Operations (12)
 
@@ -143,8 +141,8 @@ A bad listing? Email hello@warmada.com with the link.
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Jerry.ai](https://warmada.com/companies/jerry-ai?utm_source=github&utm_medium=list&utm_campaign=austin) | Insurance Compliance &amp; Automation Lead (Remote) | Austin, Texas | Nov 27 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/f03be8e2-7d20-4463-8997-f2652ffbe259) · [Find the hiring manager](https://warmada.com/job/jerry-ai-insurance-compliance-and-automation-lead-remote-7e2b8bba-3dee-42b0-929c-aca5bb45a693?utm_source=github&utm_medium=list&utm_campaign=austin) |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=austin) | Counsel, Employment | Austin, TX | Nov 24 | [Apply](https://jobs.ashbyhq.com/saronic/e411fd7d-90d8-4481-ac33-292672ef1599) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-counsel-employment-822186a6-91a6-4b85-bc00-c5507b4cdf77?utm_source=github&utm_medium=list&utm_campaign=austin) |
-| [Jerry.ai](https://warmada.com/companies/jerry-ai?utm_source=github&utm_medium=list&utm_campaign=austin) | Insurance Compliance &amp; Automation Lead (Remote) | Austin, Texas | Nov 19 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/74f99fa4-9f19-417d-8fb0-923af3a95f33) · [Find the hiring manager](https://warmada.com/job/jerry-ai-insurance-compliance-and-automation-lead-remote-00618858-e513-402a-b583-816384ed1947?utm_source=github&utm_medium=list&utm_campaign=austin) |
 
 ## Other (40)
 
